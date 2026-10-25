@@ -243,4 +243,4 @@ This repository serves as the official landing page for Samplitude. The software
 **Get the most recent version of Samplitude today!**
 
 ---
-**Last updated:** 2026-10-25 17:21:22 UTC
+**Last updated:** 2026-10-25 20:15:47 UTC
